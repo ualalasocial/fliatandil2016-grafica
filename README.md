@@ -9,7 +9,7 @@ Incluye:
 
 ### Créditos
 
-Realizado por [Yaco](/Yaco)
+Realizado por [Yaco](https://github.com/Yaco)
 
 Usando:
 
