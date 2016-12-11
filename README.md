@@ -9,7 +9,7 @@ Incluye:
 
 ### Créditos
 
-Realizado por @Yaco
+Realizado por [Yaco](/Yaco)
 
 Usando:
 
