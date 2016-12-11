@@ -9,7 +9,7 @@ Incluye:
 
 ### Créditos
 
-Realizado por Yaco (yaco@reevo.org)
+Realizado por @Yaco
 
 Usando:
 
@@ -18,6 +18,4 @@ Usando:
 
 ### Licencia
 
-Todo el contenido se distribuye bajo la licencia CC Atribución 4.0 (https://creativecommons.org/licenses/by/4.0/)
-
-
+Todo el contenido se distribuye bajo la licencia CC Atribución 4.0 (https://creativecommons.org/licenses/by/4.0/).
